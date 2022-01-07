@@ -1,0 +1,5 @@
+1 libro: 12,49 €
+3 CD de música: 49,47 €
+1 barrita de chocolate: 0,85 €
+Impuestos sobre las ventas: 4,50 €
+Total: 62,81 €
